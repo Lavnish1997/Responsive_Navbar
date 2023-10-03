@@ -1,6 +1,6 @@
-# Spotify Clone
+# Responsive Navigation bar for a Photography Website
 
-## A clone of the Simple Clone for practicing web development skills.
+## It is a Responsive Navigation bar.It is useful for a Photography Website.This project for practicing web development skills.
 
 ## Technologies used :
    1. HTML
@@ -11,4 +11,4 @@
    Email: lavnishsingh1997@gmail.com
 
 ## Link :
-   url : 
+   url : https://lavnish1997.github.io/Responsive_Navbar/
